@@ -62,11 +62,11 @@ This library is already downloaded in the repo, you won't have to download it.
 Inside "dbUtil" folder, you will find "DBConnection" class. You can change the value of the following variables and assign them to your database.
 
 1. url
-   Change this variable to the url of your database
+   Change this variable to the url of your database.
 2. USERNAME
-   Change this variable to the username of your database
+   Change this variable to the username of your database.
 3. PASSWORD
-   Change this variable to the password of your database
+   Change this variable to the password of your database.
 
 **2. Running your main class**
 
